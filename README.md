@@ -1,7 +1,7 @@
 # NLP_labs
 
-requirements.txt добавлю
-Основные библиотеки:
+* requirements.txt добавлю
+* Основные библиотеки:
 pandas
 seaborn
 matplotlib
