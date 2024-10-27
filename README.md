@@ -10,6 +10,7 @@ nltk
 wordcloud
 gensim
 numpy
+torch
 ```
 
 ## Датасет
